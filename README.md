@@ -10,6 +10,9 @@
 <!-- --- About Me --- -->
 I'm currently working as a developer intern on the Shopify Pay Installments team and pursuing my B.C.S Honours at Carleton University as part of the Dev Degree program. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 --- Tools and technologies: ---
 ```javascript
