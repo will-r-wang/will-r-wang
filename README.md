@@ -11,6 +11,13 @@
 I'm currently working as a developer intern on the Shopify Pay Installments team and pursuing my B.C.S Honours at Carleton University as part of the Dev Degree program. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.
 
 <!--START_SECTION:waka-->
+```text
+R            2 mins          ██████████░░░░░░░░░░░░░░░   40.62 % 
+Other        2 mins          ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Ruby         1 min           ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```
 <!--END_SECTION:waka-->
 
 <!--
