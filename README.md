@@ -12,8 +12,8 @@ I'm currently working as a developer intern on the Shopify Pay Installments team
 
 <!--START_SECTION:waka-->
 ```text
-TeX      1 hr 3 mins     ██████████████████████▓░░   91.28 % 
-BibTeX   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+TeX      2 hrs 11 mins   ██████████████████████▒░░   88.82 % 
+BibTeX   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 ```
 <!--END_SECTION:waka-->
 
