@@ -12,11 +12,11 @@ I'm currently working as a developer intern on the Shopify Pay Installments team
 
 <!--START_SECTION:waka-->
 ```text
-Ruby     7 hrs 42 mins   ████████████▓░░░░░░░░░░░░   50.59 % 
-C        4 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.40 % 
-Python   1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-C++      48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-VimL     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Ruby       9 hrs 47 mins   █████████████▒░░░░░░░░░░░   53.29 % 
+C          4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Python     1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Markdown   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+C++        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
 
