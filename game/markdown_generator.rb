@@ -44,7 +44,7 @@ class MarkdownGenerator
     markdown.concat("\n\nNext to move: #{@game.turn.even? ? '❌' : '⭕️'}\n")
     markdown.concat(generate_game_board)
     markdown.concat("\nSee the original project here: https://github.com/will-r-wang/Ultimate-Tic-Tac-Toe  ")
-    markdown.concat("\nBuilt with [@sayohnahilan](https://github.com/sayohnahilan)")
+    markdown.concat("\nBuilt with [@sayohnahilan](https://github.com/sayohnahilan)  ")
     markdown.concat("\nInspired by: [Community Connect Four Game!](https://github.com/JonathanGin52/JonathanGin52/) - [@JonathanGin52](https://github.com/jonathangin52)")
     markdown
   end
