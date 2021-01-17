@@ -3,7 +3,10 @@
 <!-- --- Social Icons --- -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-r-wang/)](https://www.linkedin.com/in/will-r-wang/) 
 [![Hey Email](https://img.shields.io/badge/Hey-5522fa?style=flat&logo=Hey&logoColor=white&link=mailto:william.wang@hey.com)](mailto:william.wang@hey.com) 
-[![Goodreads](https://img.shields.io/badge/Goodreads-9e7000?style=flat&logo=Goodreads&logoColor=white&link=http://goodreads.com/willrwang)](http://goodreads.com/willrwang)
+[![Goodreads](https://img.shields.io/badge/Goodreads-9e7000?style=flat&logo=Goodreads&logoColor=white&link=http://goodreads.com/willrwang)](http://goodreads.com/willrwang)  
+
+<!-- --- About Me --- -->	
+I'm currently working as a developer intern on the <a title='Installments' target="_blank" rel="noopener" href="https://www.shopify.com/shop-pay-installments">Shop Pay Installments</a> team and pursuing my B.C.S Honours at Carleton University as part of Shopify's <a title='Dev Degree' target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree</a> program. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.  
 
 <!--START_SECTION:waka-->
 ```text
@@ -27,19 +30,19 @@ decided, you can choose freely. [[1]](https://bejofo.net/ttt)
 Click on a 👾 and press submit issue to make a move.  
 
 
-Next to move: ❌
+Next to move: ⭕️
 | |0|1|2|3|4|5|6|7|8|
 |-|-|-|-|-|-|-|-|-|-|
-|0| | | | | | | | | |
-|1| | | | | | | | | |
-|2| | | |❌| | | | | |
-|3| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C3%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C3%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C3%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
-|4| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
-|5| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
+|0| | | | | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C6&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C7&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C8&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
+|1| | | | | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C6&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C7&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C8&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
+|2| | | |❌| | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C6&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C7&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C8&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
+|3| | | | | |❌| | | |
+|4| | | | | | | | | |
+|5| | | | | | | | | |
 |6| | | | | | | | | |
 |7| |⭕️| | | | | | | |
 |8| | | | | | | | | |
 
-See the original project here: https://github.com/will-r-wang/Ultimate-Tic-Tac-Toe
+See the original project here: https://github.com/will-r-wang/Ultimate-Tic-Tac-Toe  
 Built with [@sayohnahilan](https://github.com/sayohnahilan)
 Inspired by: [Community Connect Four Game!](https://github.com/JonathanGin52/JonathanGin52/) - [@JonathanGin52](https://github.com/jonathangin52)
