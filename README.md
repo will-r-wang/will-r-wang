@@ -10,11 +10,11 @@ I'm currently working as a developer intern on the <a title='Installments' targe
 
 <!--START_SECTION:waka-->
 ```text
-Other        24 hrs 9 mins   ███████████▒░░░░░░░░░░░░░   45.82 % 
-Ruby         20 hrs 1 min    █████████▒░░░░░░░░░░░░░░░   37.99 % 
-Python       5 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Ruby      7 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   40.21 % 
+TeX       5 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   32.24 % 
+Python    3 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 % 
+C++       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+GraphQL   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 <!--END_SECTION:waka-->
 
