@@ -20,15 +20,15 @@ decided, you can choose freely. [[1]](https://bejofo.net/ttt)
 Click on a 👾 and press submit issue to make a move.  
 
 
-Next to move: ⭕️
+Next to move: ❌
 | |0|1|2|3|4|5|6|7|8|
 |-|-|-|-|-|-|-|-|-|-|
-|0| | | | | | | | | |
-|1| | | | | | | | | |
-|2| | | |❌| | | |⭕️| |
-|3| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C3%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C3%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|❌| | | |
-|4| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
-|5| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
+|0| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
+|1| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
+|2| | | |❌|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| |⭕️| |
+|3| | | | |⭕️|❌| | | |
+|4| | | | | | | | | |
+|5| | | | | | | | | |
 |6| | | | | | | | | |
 |7| |⭕️| | |❌| | | | |
 |8| | | | | | | | | |
