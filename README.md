@@ -8,16 +8,6 @@
 <!-- --- About Me --- -->	
 I'm currently working as a developer intern on the <a title='Installments' target="_blank" rel="noopener" href="https://www.shopify.com/shop-pay-installments">Shop Pay Installments</a> team and pursuing my B.C.S Honours at Carleton University as part of Shopify's <a title='Dev Degree' target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree</a> program. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.  
 
-<!--START_SECTION:waka-->
-```text
-C++        6 hrs 37 mins   ███████████░░░░░░░░░░░░░░   43.59 % 
-Ruby       3 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-TeX        3 hrs           █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Python     2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-<!--END_SECTION:waka-->
-
 ## Community Ultimate Tic Tac Toe
 Welcome to our community game of Ultimate Tic Tac Toe!  
 

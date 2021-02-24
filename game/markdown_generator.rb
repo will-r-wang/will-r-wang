@@ -20,16 +20,6 @@ class MarkdownGenerator
         <!-- --- About Me --- -->	
         I'm currently working as a developer intern on the <a title='Installments' target="_blank" rel="noopener" href="https://www.shopify.com/shop-pay-installments">Shop Pay Installments</a> team and pursuing my B.C.S Honours at Carleton University as part of Shopify's <a title='Dev Degree' target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree</a> program. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.  
 
-        <!--START_SECTION:waka-->
-        ```text
-        Other        24 hrs 9 mins   ███████████▒░░░░░░░░░░░░░   45.82 % 
-        Ruby         20 hrs 1 min    █████████▒░░░░░░░░░░░░░░░   37.99 % 
-        Python       5 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-        Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-        JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-        ```
-        <!--END_SECTION:waka-->
-
         ## Community Ultimate Tic Tac Toe
         Welcome to our community game of Ultimate Tic Tac Toe!  
 
