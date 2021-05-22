@@ -15,10 +15,12 @@ class MarkdownGenerator
         <!-- --- Social Icons --- -->
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-r-wang/)](https://www.linkedin.com/in/will-r-wang/) 
         [![Hey Email](https://img.shields.io/badge/Hey-5522fa?style=flat&logo=Hey&logoColor=white&link=mailto:william.wang@hey.com)](mailto:william.wang@hey.com) 
-        [![Goodreads](https://img.shields.io/badge/Goodreads-9e7000?style=flat&logo=Goodreads&logoColor=white&link=http://goodreads.com/willrwang)](http://goodreads.com/willrwang)  
+        [![Goodreads](https://img.shields.io/badge/Goodreads-9e7000?style=flat&logo=Goodreads&logoColor=white&link=http://goodreads.com/willrwang)](http://goodreads.com/willrwang)
+        [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/willrwang)](https://twitter.com/willrwang) 
 
         <!-- --- About Me --- -->	
-        I'm currently working as a developer intern on the <a title='Installments' target="_blank" rel="noopener" href="https://www.shopify.com/shop-pay-installments">Shop Pay Installments</a> team and pursuing my B.C.S Honours at Carleton University as part of Shopify's <a title='Dev Degree' target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree</a> program. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.  
+        I'm currently working as a data engineer on Shopify's Data Platform Reliability team and pursuing my B.C.S Honours at Carleton University as part of the <a title='Dev Degree' target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree program</a>. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.  
+
 
         ## Community Ultimate Tic Tac Toe
         Welcome to our community game of Ultimate Tic Tac Toe!  
