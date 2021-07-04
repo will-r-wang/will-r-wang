@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/willrwang)](https://twitter.com/willrwang) 
 
 <!-- --- About Me --- -->	
-I'm currently working as a data engineer on Shopify's Data Platform Reliability team and pursuing my B.C.S Honours at Carleton University as part of the <a title='Dev Degree' target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree program</a>. In my spare time, I like to run, code, read, blog, and make music. Sometimes, I dabble in open source and compete in hackathons.  
+I'm currently working as a data engineer at Shopify part of the <a title='Dev Degree' rel="me" target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree program</a> and pursuing an early graduation for my CS Honours degree this August. I work on the side as a teaching assistant, CTO for 5-ing COVID-19, and mentor for peers in STEM. I love neuroscience, computer vision, and all things AI, having previously done deep learning research on the Northern Tornadoes Project. In my spare time, I like singing, ultrarunning, building things, and occasionally - competing in hackathons.
 
 ## Community Ultimate Tic Tac Toe
 Welcome to our community game of Ultimate Tic Tac Toe!  
