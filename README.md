@@ -9,6 +9,7 @@
 <!-- --- About Me --- -->	
 I'm currently working as a data engineer at Shopify part of the <a title='Dev Degree' rel="me" target="_blank" rel="noopener" href="https://devdegree.ca/">Dev Degree program</a> and pursuing an early graduation for my CS Honours degree this August. I work on the side as a teaching assistant, CTO for 5-ing COVID-19, and mentor for peers in STEM. I love neuroscience, computer vision, and all things AI, having previously done deep learning research on the Northern Tornadoes Project. In my spare time, I like singing, ultrarunning, building things, and occasionally - competing in hackathons.
 
+
 ## Community Ultimate Tic Tac Toe
 Welcome to our community game of Ultimate Tic Tac Toe!  
 
@@ -21,15 +22,15 @@ decided, you can choose freely. [[1]](https://bejofo.net/ttt)
 Click on a 👾 and press submit issue to make a move.  
 
 
-Next to move: ⭕️
+Next to move: ❌
 | |0|1|2|3|4|5|6|7|8|
 |-|-|-|-|-|-|-|-|-|-|
-|0|❌|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C1&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C0%7C2&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | |❌| |⭕️| |
-|1|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C0&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C1&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C1%7C2&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | | | | |
-|2|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C0&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|⭕️|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C2%7C2&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|❌| |❌| |⭕️| |
-|3| | | | |⭕️|❌| | | |
-|4| | | | | | | | | |
-|5| | | | | | | | | |
+|0|❌| | | | |❌| |⭕️| |
+|1| |⭕️| | | | | | | |
+|2| |⭕️| |❌| |❌| |⭕️| |
+|3| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C3%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|⭕️|❌| | | |
+|4| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C4%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
+|5| | | |[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C3&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C4&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[👾](https://github.com/will-r-wang/will-r-wang/issues/new?title=move%7C5%7C5&body=Just+push+%27Submit+new+issue%27+without+modifying+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)| | | |
 |6| | | |❌| | |⭕️| | |
 |7| |⭕️| | |❌| | | | |
 |8| | | | | | | | | |
