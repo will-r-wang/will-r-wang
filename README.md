@@ -9,6 +9,9 @@ I'm a data scientist at Shopify on the Capital Algorithms team, where I leverage
 Previously, I've worked as as a machine learning engineer with the Northern Tornadoes Project, CTO for 5-ing COVID-19, and undergraduate researcher. Feel free to take a look at my work on Github or schedule a coffee at https://superpeer.com/willrwang - always happy to chat about ML, business, or work!
 
 
+<details>
+<summary>👉 Click here to play Community Tic Tac Toe</summary>
+
 ## Community Ultimate Tic Tac Toe
 Welcome to our community game of Ultimate Tic Tac Toe!  
 
@@ -37,3 +40,4 @@ Next to move: ⭕️
 See the original project here: https://github.com/will-r-wang/Ultimate-Tic-Tac-Toe  
 Built with [@sayohnahilan](https://github.com/sayohnahilan)  
 Inspired by: [Community Connect Four Game!](https://github.com/JonathanGin52/JonathanGin52/) - [@JonathanGin52](https://github.com/jonathangin52)
+</details>
