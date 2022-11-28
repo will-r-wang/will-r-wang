@@ -1,16 +1,13 @@
 # Hey 👋, I'm Will
 
 <!-- --- Social Icons --- -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-r-wang/)](https://www.linkedin.com/in/will-r-wang/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willrwang/)](https://www.linkedin.com/in/willrwang/)
 
 <!-- --- About Me --- -->	
 I'm a data scientist at Shopify on the Capital Algorithms team, where I leverage ML and Big Data to power financial services data products. In the past, I was part of [Shopify's Dev Degree program](http://devdegree.ca/), where I graduated from Carleton University's B.C.S Honours Program in two years as one of the top 30 students in the fall class of 2021.
 
 Previously, I've worked as as a machine learning engineer with the Northern Tornadoes Project, CTO for 5-ing COVID-19, and undergraduate researcher. Feel free to take a look at my work on Github or schedule a coffee at https://superpeer.com/willrwang - always happy to chat about ML, business, or work!
 
-
-<details>
-<summary>👉 Click here to play Community Tic Tac Toe</summary>
 
 ## Community Ultimate Tic Tac Toe
 Welcome to our community game of Ultimate Tic Tac Toe!  
@@ -40,4 +37,3 @@ Next to move: ⭕️
 See the original project here: https://github.com/will-r-wang/Ultimate-Tic-Tac-Toe  
 Built with [@sayohnahilan](https://github.com/sayohnahilan)  
 Inspired by: [Community Connect Four Game!](https://github.com/JonathanGin52/JonathanGin52/) - [@JonathanGin52](https://github.com/jonathangin52)
-</details>
