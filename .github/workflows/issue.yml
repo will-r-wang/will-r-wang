@@ -2,7 +2,7 @@ name: Ultimate Tic Tac Toe
 
 on:
   issues:
-    types: [opened]
+    types: [opened, reopened]
 
 jobs:
   move:
