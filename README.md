@@ -1,13 +1,12 @@
 # Hey 👋, I'm Will
 
 <!-- --- Social Icons --- -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-r-wang/)](https://www.linkedin.com/in/will-r-wang/) 
-[![Hey Email](https://img.shields.io/badge/Hey-5522fa?style=flat&logo=Hey&logoColor=white&link=mailto:william.wang@hey.com)](mailto:william.wang@hey.com) 
-[![Goodreads](https://img.shields.io/badge/Goodreads-9e7000?style=flat&logo=Goodreads&logoColor=white&link=http://goodreads.com/willrwang)](http://goodreads.com/willrwang)
-[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/willrwang)](https://twitter.com/willrwang) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willrwang/)](https://www.linkedin.com/in/willrwang/)
 
 <!-- --- About Me --- -->	
-Hey 👋 , I'm Will, a data scientist at Shopify and Dev Degree alum. In the past, I've worked as as a computer vision researcher with the Northern Tornadoes Project, CTO for 5-ing COVID-19, and mentor for peers in STEM. In my spare time, I sing, ultrarun, and occasionally compete in hackathons.
+I'm a data scientist at Shopify on the Capital Algorithms team, where I leverage Machine Learning and Big Data to power financial services data products. In the past, I was part of Shopify's Dev Degree program (http://devdegree.ca/), where I graduated from Carleton University's B.C.S Honours Program in two years as one of the top 30 students in the fall class of 2021.
+
+Previously, I've worked as as a machine learning researcher with the Northern Tornadoes Project, CTO for 5-ing COVID-19, and undergraduate teaching assistant. Feel free to take a look at my work on Github (@will-r-wang) or schedule a coffee at https://superpeer.com/willrwang - always happy to chat about tech, business, or work!
 
 
 ## Community Ultimate Tic Tac Toe
