@@ -7,6 +7,7 @@ on:
 jobs:
   move:
     runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'move|')
 
     steps:
 
@@ -30,6 +31,7 @@ jobs:
       run: |
         ruby <<- EORUBY
           require './game/runner'
+
           UltimateTicTacToe::Runner.new(
             github_token: '${{ secrets.GITHUB_TOKEN }}',
             issue_number: ENV.fetch('EVENT_ISSUE_NUMBER'),
