@@ -12,6 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willrwang/)](https://www.linkedin.com/in/willrwang/)
 
 <!-- --- About Me --- -->	
-I'm an applied machine learning engineer at Shopify on the financial services data team, where I leverage predictive modeling, quantitative analysis, and systems engineering to build several billion-dollar products. In the past, I was one of 15 students part of Shopify's Dev Degree program (http://devdegree.ca/), where I graduated from Carleton University's B.C.S Honours Program in two years as one of the top 30 students in the fall class of 2021.
+I'm a Senior Applied Machine Learning Engineer on the Financial Services team at Shopify where I leverage predictive modelling, quantitative analysis, and systems engineering to power several billion-dollar products for businesses. I completed Shopify's Dev Degree program in two years while receiving a C.S. Honours degree from Carleton University as one of the top 30 students in the graduating year. 
 
-Previously, I've worked as as a machine learning researcher with the Northern Tornadoes Project, CTO for 5-ing COVID-19, undergraduate teaching assistant, and consultant for several startups. In my spare time, I sing, songwrite, run, and code.
+Previously, I've worked as as a machine learning researcher with the Northern Tornadoes Project and consultant for several startups. In my spare time, I play guitar, write songs, run, and code.
