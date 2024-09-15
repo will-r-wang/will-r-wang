@@ -9,7 +9,7 @@
 ```
 
 <!-- --- Social Icons --- -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willrwang/)](https://www.linkedin.com/in/willrwang/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willrwang/)](https://www.linkedin.com/in/willrwang/) | [![LinkedIn](https://img.shields.io/badge/Email-D14836?style=flate&logo=gmail&logoColor=white)](mailto:willrhwang@gmail.com)
 
 <!-- --- About Me --- -->	
 I'm a Senior Applied Machine Learning Engineer on the Financial Services team at Shopify where I leverage predictive modelling, quantitative analysis, and systems engineering to power several billion-dollar products for businesses. I completed Shopify's Dev Degree program in two years while receiving a C.S. Honours degree from Carleton University as one of the top 30 students in the graduating year. 
