@@ -8,9 +8,4 @@
  +-+-+ +-+-+ +-+-+-+-+-+-+ +-+-+-+
 ```
 
-Quant at Citadel. Former Senior ML Engineer at Shopify, where I built models powering multi-billion-dollar financial products. Ex-researcher and startup consultant.  
-
-Outside work: ultra runner, songwriter, and math nerd.  
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willrwang/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:willrhwang@gmail.com)
+ML at Opendoor. Prev Quant at Citadel & ML at Shopify. Ex-researcher and startup consultant.  
